@@ -1,9 +1,8 @@
-INSERT INTO Liverpool_pLayer
-  (id, Joueur, Annee_debut,Annee_fin )
+INSERT INTO player
 VALUES
-  (1, 'Steven Gerrard', 1998 , 2015),
-  (2, 'Luis Suarez', 2011, 2014),
-  (3, 'Mohamed Salah', 2017, 2023),
-  (4, 'Virgil Van Djik', 2019, 2025);
+('gerrard',1980,8),
+('Luis Suarez', 1987, 7),
+('Mohamed Salah', 1992, 11),
+('Virgil Van Djik', 1991, 4);
   
 
