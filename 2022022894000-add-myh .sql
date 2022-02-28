@@ -1,0 +1,2 @@
+ALTER TABLE teams
+ADD PRIMARY KEY(id);
